@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589907319656.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2458209684",
+    "id" : "57B08BF3",
+    "lastKnownWriteTime" : 1589912173,
+    "last_content_update" : 1589912173843,
+    "path" : "~/Courses/CS_631/Webpage/public/netlify.toml",
+    "project_path" : "public/netlify.toml",
+    "properties" : {
+        "cursorPosition" : "11,24",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
